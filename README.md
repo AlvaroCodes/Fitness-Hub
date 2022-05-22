@@ -1,1 +1,2 @@
 # Fitness-Hub
+Este proyecto se realizó en la asinatura de Desarrollo web entorno Cliente. Utiliza tecnologías como HTML5, CSS3, Javascript y PHP. Para la base de datos se utiliza MySQL. El diseño UI creó con figma. 
